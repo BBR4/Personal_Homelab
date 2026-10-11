@@ -19,6 +19,27 @@ The Bunker is a continuously evolving homelab. Services are introduced, configur
 
 The focus is on understanding how the infrastructure works rather than simply getting applications running. This includes virtual machine management, Docker networking, DNS resolution, reverse proxies, HTTPS certificates, remote connectivity, storage, and troubleshooting.
 
+## Table of Contents
+
+* [Overview](#overview)
+* [Architecture](#architecture)
+* [Hardware](#hardware)
+
+  * [Compute](#compute)
+  * [Storage](#storage)
+* [Features](#features)
+
+  * [Virtualization & Infrastructure](#virtualization--infrastructure)
+  * [Containerization & Service Management](#containerization--service-management)
+  * [Networking & Security](#networking--security)
+  * [Storage & Personal Services](#storage--personal-services)
+  * [Cybersecurity & Learning](#cybersecurity--learning)
+* [Technology Stack](#technology-stack)
+* [Security Approach](#security-approach)
+* [Documentation & Troubleshooting](#documentation--troubleshooting)
+* [Roadmap](#roadmap)
+* [Notes](#notes)
+
 ## Architecture
 
 ```mermaid
